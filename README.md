@@ -1,5 +1,5 @@
 # The-First
-hello git hub community
+Hello git hub community
 This is my first Git Repository
 <br>
 <h4>Author-Arnav Patil</h4>
